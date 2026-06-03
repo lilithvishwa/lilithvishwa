@@ -62,7 +62,7 @@ Recipe search application using third-party food API with bookmarking and respon
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lilithvishwa2005-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lilithvishwa2005/)
-[![Email](https://img.shields.io/badge/Email-lilithvishwa%40gmail.com-red?style=flat&logo=gmail)](mailto:lilith04062005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-lilith04062005%40gmail.com-red?style=flat&logo=gmail)](mailto:lilith04062005@gmail.com)
 
 ---
 
