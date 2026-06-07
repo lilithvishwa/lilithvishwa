@@ -54,22 +54,13 @@ A digital banking simulation supporting fund transfers, loan requests, account c
 
 ---
 
-### 🏨 The Wild Oasis – Hostel Booking Platform
-
-Full-stack hostel booking application featuring authentication, dynamic data handling, and an administrative dashboard.
-
-**Tech Stack:** React.js · Supabase
-
-🔗 Repository: https://github.com/lilithvishwa/The-Wild-Oasis
-
----
-
 ### 🍴 Forkify – Recipe Search Application
 
 Recipe discovery application powered by third-party APIs with bookmarking functionality and responsive design.
 
 **Tech Stack:** HTML · CSS · JavaScript
 
+🔗 Live Demo: https://forkify-lilith.netlify.app/
 🔗 Repository: https://github.com/lilithvishwa/forkify-Project
 
 ---
@@ -80,4 +71,15 @@ GPS-based workout tracker using Leaflet.js and browser geolocation APIs with per
 
 **Tech Stack:** JavaScript · Leaflet.js · Geolocation API · LocalStorage
 
+🔗 Live Demo: https://mapty-lilith.netlify.app/
 🔗 Repository: https://github.com/lilithvishwa/Mapty-Project
+
+### 🏨 The Wild Oasis – Hostel Booking Platform
+
+Full-stack hostel booking application featuring authentication, dynamic data handling, and an administrative dashboard.
+
+**Tech Stack:** React.js · Supabase
+
+🔗 Repository: https://github.com/lilithvishwa/The-Wild-Oasis
+
+---
