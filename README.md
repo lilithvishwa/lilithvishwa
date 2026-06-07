@@ -1,70 +1,83 @@
 # Hi, I'm Lilith Vishwa 👋
 
-**Front-End Developer** | React.js · TypeScript · Tailwind CSS · JavaScript
+**Frontend Developer** | React.js · TypeScript · Tailwind CSS · JavaScript
 
-Currently working as a **Junior Software Developer Intern** at **VRNexGen Technologies**, building production-level features for [VRXLEARN](https://vrxlearn.vrnexgen1.com) — a live LMS platform used by students, trainers, and admins.
+🌐 **Portfolio:** https://lilithvishwa.vercel.app/
+💼 **Currently Working On:** VRXLEARN LMS — https://vrxlearn.vrnexgen1.com/login
 
-Final-year B.E. Computer Science graduate from University College of Engineering, Tindivanam (CGPA: 8.3).
+Currently working as a **Junior Software Developer Intern** at **VRNexGen Technologies**, contributing to the development of **VRXLEARN**, a production-level Learning Management System used by students, trainers, and administrators.
+
+B.E. Computer Science and Engineering graduate from University College of Engineering, Tindivanam (CGPA: 8.3/10).
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-`HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `React.js` `Tailwind CSS` `Bootstrap` `Redux`
+### Frontend
 
-**Tools & Platforms**
+`HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `React.js` `Tailwind CSS` `Bootstrap`
+
+### Tools & Platforms
+
 `Git` `GitHub` `VS Code` `Postman` `Supabase` `Netlify` `Vercel`
 
-**Other**
-`Python` `Node.js (familiar)` `Express.js (familiar)`
+### Backend (Familiar)
+
+`Node.js` `Express.js`
+
+### Programming Languages
+
+`JavaScript` `TypeScript` `Python`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💳 [Bankist – Digital Banking App](https://github.com/lilithvishwa/Bankist-Project)
-A minimalist banking simulation with fund transfers, loan requests, account closure, and auto-logout security.
-`JavaScript` `LocalStorage` `DOM APIs` · [Live Demo](https://bankist-lilith.netlify.app)
+### 🎓 VRXLEARN – Learning Management System (Production Application)
 
-### 🗺️ [Mapty – Workout Tracker with Maps](https://github.com/lilithvishwa/Mapty-Project)
-GPS-based fitness tracker that logs running and cycling workouts on an interactive map using Leaflet.js.
-`JavaScript` `Leaflet.js` `Geolocation API` `LocalStorage`
+Production-level LMS used by students, trainers, and administrators. Contributed to responsive frontend development, reusable component creation, API integration, and UI enhancements.
 
-### 🏨 [The Wild Oasis – Hostel Booking Platform](https://github.com/lilithvishwa/The-Wild-Oasis)
-Full-stack hostel booking app with authentication, dynamic data handling, and an admin dashboard.
-`React.js` `Supabase`
+**Tech Stack:** React.js · TypeScript · Tailwind CSS · FastAPI
 
-### 🍴 [Forkify – Recipe Search App](https://github.com/lilithvishwa/forkify-Project)
-Recipe search application using third-party food API with bookmarking and responsive UI.
-`HTML` `CSS` `JavaScript`
+🔗 Live Application: https://vrxlearn.vrnexgen1.com/login
 
 ---
 
-## 💼 Experience
+### 💳 Bankist – Digital Banking Application
 
-**Junior Software Developer Intern** — VRNexGen Technologies *(Jan 2026 – Present)*
-- Building UI components for VRXLEARN LMS using React.js, TypeScript, and Tailwind CSS
-- Collaborating with FastAPI backend team to integrate REST APIs
-- Working in an Agile team environment on a live production application
+A digital banking simulation supporting fund transfers, loan requests, account closure, user authentication, and session management.
 
----
+**Tech Stack:** JavaScript · LocalStorage · DOM APIs
 
-## 📜 Certifications
-
-- 🏅 Data Structures & Algorithms using Python — **NPTEL**
-- ⚛️ The Ultimate React Course — **Udemy**
-- ✅ JavaScript Specialist Certification — **Udemy**
-- 🌐 Front End Web Development — **Udemy**
+🔗 Live Demo: https://bankist-lilith.netlify.app
+🔗 Repository: https://github.com/lilithvishwa/Bankist-Project
 
 ---
 
-## 📫 Connect with Me
+### 🏨 The Wild Oasis – Hostel Booking Platform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lilithvishwa2005-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lilithvishwa2005/)
-[![Email](https://img.shields.io/badge/Email-lilith04062005%40gmail.com-red?style=flat&logo=gmail)](mailto:lilith04062005@gmail.com)
+Full-stack hostel booking application featuring authentication, dynamic data handling, and an administrative dashboard.
+
+**Tech Stack:** React.js · Supabase
+
+🔗 Repository: https://github.com/lilithvishwa/The-Wild-Oasis
 
 ---
 
-*"Build things. Break things. Learn everything."*
+### 🍴 Forkify – Recipe Search Application
 
+Recipe discovery application powered by third-party APIs with bookmarking functionality and responsive design.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+🔗 Repository: https://github.com/lilithvishwa/forkify-Project
+
+---
+
+### 🗺️ Mapty – Workout Tracker
+
+GPS-based workout tracker using Leaflet.js and browser geolocation APIs with persistent storage.
+
+**Tech Stack:** JavaScript · Leaflet.js · Geolocation API · LocalStorage
+
+🔗 Repository: https://github.com/lilithvishwa/Mapty-Project
